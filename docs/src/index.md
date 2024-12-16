@@ -21,7 +21,7 @@ To learn more about how proof-of-stake operates in the Cosmos ecosystem, check o
 ## Helpful Links
 
 - Have a question? Ask us a question at [forum.fuel.network
-](https://forum.fuel.network/) 😄
+](https://forum.fuel.network/)
 
 <!-- TODO: add link -->
 - [Airdrop Claims](https://docs.fuel.network/docs/intro/what-is-fuel/)

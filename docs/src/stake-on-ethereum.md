@@ -3,8 +3,7 @@
 > It is recommended to bridge your FUEL tokens to the Fuel Ignition network for staking, as it offers a much faster and more cost-effective experience compared to staking on Ethereum mainnet.
 
 <!-- TODO: add link -->
-
-Please visit this link to stake your tokens on the Fuel shared sequencer network from Ethereum. Below is a help guide, and if you prefer a video tutorial, please click here.
+Please visit [app.fuel.network/staking/on-ethereum](https://docs.fuel.network/) to stake your tokens on the Fuel shared sequencer network from Ethereum. Below is a help guide, but if you prefer a video tutorial, please click [here](https://docs.fuel.network/) instead.
 
 ## Connect Wallet
 
