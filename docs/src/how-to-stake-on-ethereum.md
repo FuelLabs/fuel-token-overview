@@ -10,37 +10,37 @@ Please visit this link to stake your tokens on the Fuel shared sequencer network
 
 Start by connecting an Ethereum wallet with FUEL tokens.
 
-![Connect EVM Wallet](../../assets/how-to-stake-mainnet-ethereum/1-connect-evm-wallet.png)
+![Connect EVM Wallet](https://raw.githubusercontent.com/FuelLabs/fuel-token-overview/fa910a1ff3876a4577ce8879529303c155d7395e/assets/how-to-stake-mainnet-ethereum/1-connect-evm-wallet.png)
 
 ## Stake
 
 From left to right, you can see your balance of FUEL tokens on your Ethereum wallet, your balance of FUEL tokens on the shared sequencer network, and the rewards accumulated.
 
-![Token Balances](../../assets/how-to-stake-mainnet-ethereum/2-token-balances.png)
+![Token Balances](https://raw.githubusercontent.com/FuelLabs/fuel-token-overview/fa910a1ff3876a4577ce8879529303c155d7395e/assets/how-to-stake-mainnet-ethereum/2-token-balances.png)
 
 ### Select Validator
 
 Scroll down to the bottom of the page. There, you will see a list of validators. From the list of validators, choose the one in which you want to stake and delegate your FUEL tokens. Click the "Deposit" button.
 
-![Select Validator](../../assets/how-to-stake-mainnet-ethereum/3-select-validator.png)
+![Select Validator](https://raw.githubusercontent.com/FuelLabs/fuel-token-overview/fa910a1ff3876a4577ce8879529303c155d7395e/assets/how-to-stake-mainnet-ethereum/3-select-validator.png)
 
 ### Delegating Tokens
 
 Select the amount of FUEL tokens you want to delegate, and approve those tokens.
 
-![Delegate Tokens](../../assets/how-to-stake-mainnet-ethereum/4-delegation-amount.png)
+![Delegate Tokens](https://raw.githubusercontent.com/FuelLabs/fuel-token-overview/fa910a1ff3876a4577ce8879529303c155d7395e/assets/how-to-stake-mainnet-ethereum/4-delegation-amount.png)
 
 Confirm your delegation.
 
-![Confirm Delegation](../../assets/how-to-stake-mainnet-ethereum/5-confirm-delegation.png)
+![Confirm Delegation](https://raw.githubusercontent.com/FuelLabs/fuel-token-overview/fa910a1ff3876a4577ce8879529303c155d7395e/assets/how-to-stake-mainnet-ethereum/5-confirm-delegation.png)
 
 ## Claim Rewards
 
 Once you have staked your FUEL tokens, you will start to accumulate FUEL rewards, which you can claim. Click "Claim" on any of your open delegated positions to collect your rewards.
 
-![Claim Rewards](../../assets/how-to-stake-mainnet-ethereum/6-claim-rewards.png)
+![Claim Rewards](https://raw.githubusercontent.com/FuelLabs/fuel-token-overview/fa910a1ff3876a4577ce8879529303c155d7395e/assets/how-to-stake-mainnet-ethereum/6-claim-rewards.png)
 
-![Claim Rewards Pt2](../../assets/how-to-stake-mainnet-ethereum/7-claim-rewards-pt2.png)
+![Claim Rewards Pt2](https://raw.githubusercontent.com/FuelLabs/fuel-token-overview/fa910a1ff3876a4577ce8879529303c155d7395e/assets/how-to-stake-mainnet-ethereum/7-claim-rewards-pt2.png)
 
 ## Withdrawal
 
@@ -50,14 +50,14 @@ At any time, you can undelegate and withdraw your staked FUEL tokens.
 
 To undelegate your open positions, simply press the hamburger button beside your position and click the orange "Undelegate" button.
 
-![Withdrawal](../../assets/how-to-stake-mainnet-ethereum/8-undelegate.png)
+![Withdrawal](https://raw.githubusercontent.com/FuelLabs/fuel-token-overview/fa910a1ff3876a4577ce8879529303c155d7395e/assets/how-to-stake-mainnet-ethereum/8-undelegate.png)
 
 Here, you can select how many delegated tokens you wish to undelegate.
 
-![Withdrawal Pt2](../../assets/how-to-stake-mainnet-ethereum/9-undelegate-pt2.png)
+![Withdrawal Pt2](https://raw.githubusercontent.com/FuelLabs/fuel-token-overview/fa910a1ff3876a4577ce8879529303c155d7395e/assets/how-to-stake-mainnet-ethereum/9-undelegate-pt2.png)
 
 ### Withdraw Balance in Sequencer
 
 Lastly, you can withdraw your tokens back to your L1 wallet by clicking the "Withdraw" button beside your balance in the shared sequencer.
 
-![Withdrawal](../../assets/how-to-stake-mainnet-ethereum/10-withdrawal.png)
+![Withdrawal](https://raw.githubusercontent.com/FuelLabs/fuel-token-overview/fa910a1ff3876a4577ce8879529303c155d7395e/assets/how-to-stake-mainnet-ethereum/10-withdrawal.png)

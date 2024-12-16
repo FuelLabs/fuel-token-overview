@@ -7,27 +7,27 @@ Please visit this link to convert Fuel V1 tokens to FUEL tokens. Below is a help
 
 ## Connecting an EVM Wallet
 
-![Connect EVM Wallet](../../assets/how-to-convert-fuelv1/1-connect-evm-wallet.png)
+![Connect EVM Wallet](https://raw.githubusercontent.com/FuelLabs/fuel-token-overview/fa910a1ff3876a4577ce8879529303c155d7395e/assets/how-to-convert-fuelv1/1-connect-evm-wallet.png)
 
 Fuel V1 grants exist only on the Ethereum mainnet. Please connect an EVM wallet with a token grant or Fuel V1 tokens using the button in the top-right corner.
 
 ## Claiming a Token Grant
 
-![Claim Token Grant](../../assets/how-to-convert-fuelv1/2-claim-token-grant.png)
+![Claim Token Grant](https://raw.githubusercontent.com/FuelLabs/fuel-token-overview/fa910a1ff3876a4577ce8879529303c155d7395e/assets/how-to-convert-fuelv1/2-claim-token-grant.png)
 
 If you have a token grant, the amount of unclaimed tokens will be displayed, along with a button to claim the tokens into your wallet. If you only have Fuel V1 tokens ready to convert, you can skip this step.
 
 ## Converting Fuel V1 Tokens to Fuel Tokens
 
-![Convert To FUEL](../../assets/how-to-convert-fuelv1/3-convert-to-fuel.png)
+![Convert To FUEL](https://raw.githubusercontent.com/FuelLabs/fuel-token-overview/fa910a1ff3876a4577ce8879529303c155d7395e/assets/how-to-convert-fuelv1/3-convert-to-fuel.png)
 
 Once you have Fuel V1 tokens, click the "Convert to FUEL" button to start the conversion process. Here you will see two screens.
 
-![Approve Amount](../../assets/how-to-convert-fuelv1/4-approve-amount.png)
+![Approve Amount](https://raw.githubusercontent.com/FuelLabs/fuel-token-overview/fa910a1ff3876a4577ce8879529303c155d7395e/assets/how-to-convert-fuelv1/4-approve-amount.png)
 
 The first screen is to approve the amount of tokens to be converted.
 
-![Confirm Conversion](../../assets/how-to-convert-fuelv1/5-confirm-conversion.png)
+![Confirm Conversion](https://raw.githubusercontent.com/FuelLabs/fuel-token-overview/fa910a1ff3876a4577ce8879529303c155d7395e/assets/how-to-convert-fuelv1/5-confirm-conversion.png)
 
 The second screen is to actually complete the conversion of Fuel V1 tokens to FUEL tokens.
 
