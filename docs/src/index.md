@@ -26,4 +26,4 @@ To learn more about how proof-of-stake operates in the Cosmos ecosystem, check o
 <!-- TODO: add link -->
 - [Convert Fuel V1 to FUEL]()
 <!-- TODO: add link -->
-- [Stake, Withdrawl and Reward Claims]()
+- [Stake, Withdrawal and Reward Claims]()
