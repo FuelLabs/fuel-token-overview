@@ -3,7 +3,7 @@
 <!-- TODO: add link -->
 Please visit [app.fuel.network/staking/on-fuel](https://docs.fuel.network/) to stake your tokens on the Fuel shared sequencer network through Fuel Ignition. Below is a help guide, but if you prefer a video tutorial, please click [here](https://docs.fuel.network/).
 
-## Connect Wallet
+## Connect Fuel Wallet
 
 Start by connecting a Fuel wallet with FUEL tokens. This includes both non-native EVM and SVM wallets.
 
