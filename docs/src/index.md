@@ -17,3 +17,13 @@ Fuel stands out for its exceptional speed and efficiency, making it ideal for ra
 Fuel will launch with **11** validators supporting the network. When you stake your FUEL tokens, you can delegate them to a validator, enabling you to earn staking rewards from the network. The entity operating the validators will take a percentage of these rewards as a fee.
 
 To learn more about how proof-of-stake operates in the Cosmos ecosystem, check out their [documentation](https://docs.cosmos.network/main/build/modules/staking).
+
+# Helpful Links
+- Have a question? Ask us a question at [forum.fuel.network
+](https://forum.fuel.network/) 😄
+<!-- TODO: add link -->
+- [Airdrop Claims]()
+<!-- TODO: add link -->
+- [Convert Fuel V1 to FUEL]()
+<!-- TODO: add link -->
+- [Stake, Withdrawl and Reward Claims]()
