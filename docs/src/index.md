@@ -24,10 +24,10 @@ To learn more about how proof-of-stake operates in the Cosmos ecosystem, check o
 ](https://forum.fuel.network/) 😄
 
 <!-- TODO: add link -->
-- [Airdrop Claims](docs.fuel.network)
+- [Airdrop Claims](https://docs.fuel.network/docs/intro/what-is-fuel/)
 
 <!-- TODO: add link -->
-- [Convert Fuel V1 to FUEL](docs.fuel.network)
+- [Convert Fuel V1 to FUEL](https://docs.fuel.network/docs/intro/what-is-fuel/)
 
 <!-- TODO: add link -->
-- [Stake, Withdrawal and Reward Claims](docs.fuel.network)
+- [Stake, Withdrawal and Reward Claims](https://docs.fuel.network/docs/intro/what-is-fuel/)
