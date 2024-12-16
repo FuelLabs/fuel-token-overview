@@ -8,14 +8,14 @@ Fuel will have an initial total supply of 10 billion FUEL tokens distributed to 
 
 ![allocation](https://raw.githubusercontent.com/FuelLabs/fuel-token-overview/refs/heads/main/assets/allocation.png)
 
-| Group                | Details                                                                                                                                                                                                    | Allocation           |
-|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|
-| Community Expansion  | Used for incentives, programs, campaigns and activations for the Fuel community and expansion.                                                                                                             | 2.00 billion (20.0%) |
-| Ecosystem and R&D    | Used to establish the sequencing network, and for ecosystem development and Fuel technology R&D.                                                                                                           | 1.55 billion (15.5%) |
-| Ecosystem and R&D 24 | Same as above. These locked tokens can be staked during the 24 month block-by-block linear release. Staking rewards will only be used for ecosystem development efforts and to enable L2 level incentives. | 1.55 billion (15.5%) |
-| Contributors 24      | Includes past and present Fuel contributors.                                                                                                                                                               | 0.60 billion (6.0%)  |
-| Contributors 48      | Core project contributors.                                                                                                                                                                                 | 0.98 billion (9.8%)  |
-| Purchasers           | Token purchasers from 2020 to 2022.                                                                                                                                                                        | 3.31 billion (33.1%) |
+| Group                | Details                                                                                                                                                                                                    | Allocation   |
+|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| Community Expansion  | Used for incentives, programs, campaigns and activations for the Fuel community and expansion.                                                                                                             | 2.00 billion |
+| Ecosystem and R&D    | Used to establish the sequencing network, and for ecosystem development and Fuel technology R&D.                                                                                                           | 1.55 billion |
+| Ecosystem and R&D 24 | Same as above. These locked tokens can be staked during the 24 month block-by-block linear release. Staking rewards will only be used for ecosystem development efforts and to enable L2 level incentives. | 1.55 billion |
+| Contributors 24      | Includes past and present Fuel contributors.                                                                                                                                                               | 0.60 billion |
+| Contributors 48      | Core project contributors.                                                                                                                                                                                 | 0.98 billion |
+| Purchasers           | Token purchasers from 2020 to 2022.                                                                                                                                                                        | 3.31 billion |
 
 ## Inflation
 
