@@ -18,12 +18,16 @@ Fuel will launch with **11** validators supporting the network. When you stake y
 
 To learn more about how proof-of-stake operates in the Cosmos ecosystem, check out their [documentation](https://docs.cosmos.network/main/build/modules/staking).
 
-# Helpful Links
+## Helpful Links
+
 - Have a question? Ask us a question at [forum.fuel.network
 ](https://forum.fuel.network/) 😄
+
 <!-- TODO: add link -->
-- [Airdrop Claims]()
+- [Airdrop Claims](docs.fuel.network)
+
 <!-- TODO: add link -->
-- [Convert Fuel V1 to FUEL]()
+- [Convert Fuel V1 to FUEL](docs.fuel.network)
+
 <!-- TODO: add link -->
-- [Stake, Withdrawal and Reward Claims]()
+- [Stake, Withdrawal and Reward Claims](docs.fuel.network)

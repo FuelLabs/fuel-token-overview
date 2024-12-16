@@ -5,7 +5,6 @@
 <!-- TODO: add link -->
 Please visit this link to convert Fuel V1 tokens to FUEL tokens. Below is a help guide, and if you prefer a video tutorial, please click here.
 
-
 ## Connecting an EVM Wallet
 
 ![Connect EVM Wallet](../../assets/how-to-convert-fuelv1/1-connect-evm-wallet.png)
