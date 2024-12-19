@@ -3,7 +3,7 @@
 [Token Overview](./index.md)
 
 - [Tokenomics](./tokenomics.md)
-- [How to Claim FUEL](./how-to-claim-fuel.md)
-- [How to Convert Fuel V1 to FUEL](./how-to-convert-fuelv1.md)
-- [How to Stake on Ethereum](./how-to-stake-on-ethereum.md)
-- [How to Stake on Fuel Ignition](./how-to-stake-on-fuel.md)
+- [Fuel V1 to FUEL Upgrade](./fuel-v1-upgrade.md)
+- [Claim Genesis Drop](./claim-genesis-drop.md)
+- [Stake on Fuel Ignition](./stake-on-fuel.md)
+- [Stake on Ethereum](./stake-on-ethereum.md)
