@@ -1,14 +1,14 @@
 # How to Stake on Mainnet Ethereum
 
-## Step 1: Connect Your Wallet
+***Step 1: Connect Your Wallet***
 
 To begin staking your FUEL tokens on Ethereum, connect your Ethereum-compatible wallet to the staking platform. Ensure your wallet contains FUEL tokens, whether on the Ethereum mainnet or already bridged to the Fuel sequencer network. If your tokens are on the Ethereum mainnet, you'll need to migrate them to the sequencer network before staking. The platform will guide you through this seamless migration process.
 
-## Step 2: Delegate and Stake Your Tokens
+***Step 2: Delegate and Stake Your Tokens***
 
 Once your wallet is connected and your tokens are available in the sequencer network, select a validator to delegate your FUEL tokens. Browse the list of validators displayed at the bottom of the staking page and choose one that aligns with your preferences. Enter the amount of FUEL you wish to delegate, approve the transaction, and confirm your delegation. Once completed, your tokens will appear under "Delegated Positions," and you will immediately begin earning rewards.
 
-## Step 3: Manage Rewards and Withdrawals
+***Step 3: Manage Rewards and Withdrawals***
 
 After staking, your FUEL rewards will accumulate automatically. To claim them, navigate to any of your open delegated positions and click "Claim." Your rewards will be added to your balance in the sequencer network. If you wish to withdraw your staked tokens, undelegate them by selecting the desired position and clicking "Undelegate." The tokens will return to your balance in the sequencer network, and you can withdraw them back to your Ethereum mainnet wallet anytime.
 
