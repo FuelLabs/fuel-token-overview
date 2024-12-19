@@ -22,7 +22,7 @@ Learn more about the Fuel Sequencer or see the [Fuel Genesis announcement](https
 
 ## FUEL Overview
 
-![Fuel Banner](https://raw.githubusercontent.com/FuelLabs/fuel-token-overview/refs/heads/add/revisions/assets/about/1-fuel-banner.png)
+![Fuel Banner](https://raw.githubusercontent.com/FuelLabs/fuel-token-overview/refs/heads/main/assets/about/1-fuel-banner.png)
 
 $FUEL will secure the Fuel sequencing network, pay for chain resources and eliminate transaction fees for users while creating new markets for L2 applications.
 
@@ -60,7 +60,7 @@ We outline three key phases for advancing the decentralization of the network.
 
 This is just the start of our journey, and we're excited to share our plans for advancing the network.
 
-![Progressive Decentralization](https://raw.githubusercontent.com/FuelLabs/fuel-token-overview/refs/heads/add/revisions/assets/about/2-progressive-decentralization.png)
+![Progressive Decentralization](https://raw.githubusercontent.com/FuelLabs/fuel-token-overview/refs/heads/main/assets/about/2-progressive-decentralization.png)
 
 ## Helpful Links
 
