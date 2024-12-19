@@ -12,7 +12,7 @@ You connect all three wallet types at the same time and view the claimable amoun
 
 ![Airdrop Amount Multi](https://raw.githubusercontent.com/FuelLabs/fuel-token-overview/refs/heads/main/assets/claim-genesis-drop/2-airdrop-amount-multi.png)
 
-Note that any eligible Ethereum accounts you connect will automatically load their associated eligible Fuel accounts as well.
+Note that any eligible Ethereum accounts you connect will automatically load their corresponding eligible Fuel accounts. If rewards were earned using a non-Fuel wallet, they will still appear in the Fuel Wallet where the tokens were bridged.
 
 ![Airdrop Amount Pt2](https://raw.githubusercontent.com/FuelLabs/fuel-token-overview/refs/heads/main/assets/claim-genesis-drop/3-airdrop-amount-pt2.png)
 
@@ -22,7 +22,7 @@ To start the claiming process, click “Join the Claim Queue.”
 
 ![Join Queue](https://raw.githubusercontent.com/FuelLabs/fuel-token-overview/refs/heads/main/assets/claim-genesis-drop/4-join-queue.png)
 
-Once you have joined the queue, you will have exactly 10 minutes to claim your FUEL tokens from each of your eligible accounts.
+Once you have joined the queue, you will have exactly 10 minutes to claim your FUEL tokens from each of your eligible accounts or else you will have to requeue.
 
 ![Claim](https://raw.githubusercontent.com/FuelLabs/fuel-token-overview/refs/heads/main/assets/claim-genesis-drop/5-claim.png)
 
@@ -30,4 +30,10 @@ Please carefully read over the terms of service before proceeding to claim your 
 
 ![Claim Pt2](https://raw.githubusercontent.com/FuelLabs/fuel-token-overview/refs/heads/main/assets/claim-genesis-drop/6-claim-pt2.png)
 
+When claiming through an Ethereum wallet, you can connect a Fuel wallet to receive your tokens. Plus, as a bonus, if you don't have any ETH on Fuel Ignition, you’ll get a small amount of  gas to help you claim your Fuel tokens!
+
+![Claim Eth](https://raw.githubusercontent.com/FuelLabs/fuel-token-overview/refs/heads/main/assets/claim-genesis-drop/7-claim-eth.png)
+
 Congratulations, and thank you for being part of the Fuel community! Now, please head over to the [Fuel Ignition staking guide](./stake-on-fuel.md) to learn how you can stake your FUEL tokens and help secure the network!
+
+Congratulations and thank you for being a part of the Fuel community! Now, please head over to Fuel Ignition and follow this [guide](./stake-on-fuel.md) to stake your tokens.

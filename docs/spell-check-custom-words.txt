@@ -31,3 +31,4 @@ permissionless
 Tendermint
 liveness
 rollup
+requeue

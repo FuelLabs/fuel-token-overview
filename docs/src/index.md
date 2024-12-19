@@ -10,15 +10,11 @@
 
 ## The Role of FUEL
 
-FUEL secures Fuel's decentralized sequencer and eliminates gas fees for users by introducing a novel economic incentive structure based on Application Specific Sequencing.
+FUEL powers Fuels decentralized sequencer and eliminates gas fees for users by introducing a novel economic incentive structure based on Application Specific Sequencing. By enabling fee-less, web2-like, fee-less experiences for users, FUEL makes blockchain technology more usable and accessible to the masses.
 
-FUEL will transform the Ignition ecosystem by enabling web2-like, fee-less experiences for users, making blockchain technology accessible to the masses. FUEL will secure the Fuel sequencing network, pay for chain resources and eliminate transaction fees for users while creating new markets for L2 applications.
+FUEL secures the Fuel sequencing network, pays for chain resources and eliminates transaction fees for users– all while fostering new markets for L2 applications. Beyond sequencing, FUEL is on a mission to make blockchain usable without compromising on decentralization, setting a new standard for rollups in a space dominated by centralized solutions today.
 
-Our vision is to fully decentralize sequencing, which is essential for improving fault tolerance, liveness and censorship resistance. While centralized solutions dominate the space today, Fuel is committed to evolving toward a shared, permissionless network for its rollups.
-
-Users can actively participate in securing the network by delegating their FUEL to sequencer proposers in exchange for a share of staking rewards.
-
-Learn more about the Fuel Sequencer or see the [Fuel Genesis announcement](https://fuel.mirror.xyz/T6A4x8ReVu5ucAdwXXhrJawN9n4op7de4y7xW9MJ8ew) to learn more about the FUEL token's utility and distribution.
+Learn more about the Fuel Sequencer or see the [Fuel Genesis announcement](https://fuel.mirror.xyz/T6A4x8ReVu5ucAdwXXhrJawN9n4op7de4y7xW9MJ8ew) to learn more about FUEL’s utility and distribution.
 
 ## FUEL Overview
 
@@ -65,7 +61,7 @@ This is just the start of our journey, and we're excited to share our plans for 
 ## Helpful Links
 
 - Have a question? Ask us a question at [forum.fuel.network](https://forum.fuel.network/) or [Discord](https://discord.com/invite/xfpK4Pe)
-- [Genesis Drop Claims](./claim-airdrop.md)
+- [Genesis Drop Claims](./claim-genesis-drop.md)
 - [Upgrade Fuel V1 to FUEL](./fuel-v1-upgrade.md)
 - [Stake, Withdrawal and Reward Claims from Fuel Ignition](./stake-on-fuel.md)
 - [Stake, Withdrawal and Reward Claims from Ethereum](./stake-on-ethereum.md)
