@@ -1,33 +1,72 @@
 # FUEL Token
 
-| Property                | Details                                                        |
-|-------------------------|----------------------------------------------------------------|
-| Ticker                  | FUEL                                                           |
-| Total supply at genesis | 10,000,000,000 FUEL                                            |
-| Decimals                | 9                                                              |
-| Address                 | 0x675b68aa4d9c2d3bb3f0397048e62e6b7192079c                     |
-| Inflation Schedule      | 7% in the first year, decreasing 20% every year until it is 2% |
+| Property                | Details                                    |
+|-------------------------|--------------------------------------------|
+| Ticker                  | FUEL                                       |
+| Total supply at genesis | 10,000,000,000 FUEL                        |
+| Decimals                | 9                                          |
+| Address                 | [0x675b68aa4d9c2d3bb3f0397048e62e6b7192079c](https://etherscan.io/address/0x675b68aa4d9c2d3bb3f0397048e62e6b7192079c) |
+| Inflation Schedule      | 3% annually                                |
 
 ## The Role of FUEL
 
-Fuel’s shared sequencer network, powered by the Cosmos SDK, is designed to enable seamless cross-chain interactions. Holders of the FUEL token can actively participate in securing the network by staking or delegating their tokens to trusted validators within the Fuel ecosystem.
+FUEL secures Fuel's decentralized sequencer and eliminates gas fees for users by introducing a novel economic incentive structure based on Application Specific Sequencing.
 
-Fuel stands out for its exceptional speed and efficiency, making it ideal for rapidly processing cross-chain transactions. This capability empowers developers to build robust, low-latency cross-chain applications while addressing the challenges of fragmentation in multi-chain environments. With a shared sequencer that supports all Fuel rollups, the network offers a unified foundation for scalable block building.
+FUEL will transform the Ignition ecosystem by enabling web2-like, fee-less experiences for users, making blockchain technology accessible to the masses. FUEL will secure the Fuel sequencing network, pay for chain resources and eliminate transaction fees for users while creating new markets for L2 applications.
 
-Fuel will launch with **11** validators supporting the network. When you stake your FUEL tokens, you can delegate them to a validator, enabling you to earn staking rewards from the network. The entity operating the validators will take a percentage of these rewards as a fee.
+Our vision is to fully decentralize sequencing, which is essential for improving fault tolerance, liveness and censorship resistance. While centralized solutions dominate the space today, Fuel is committed to evolving toward a shared, permissionless network for its rollups.
 
-To learn more about how proof-of-stake operates in the Cosmos ecosystem, check out their [documentation](https://docs.cosmos.network/main/build/modules/staking).
+Users can actively participate in securing the network by delegating their FUEL to sequencer proposers in exchange for a share of staking rewards.
+
+Learn more about the Fuel Sequencer or see the [Fuel Genesis announcement](https://fuel.mirror.xyz/T6A4x8ReVu5ucAdwXXhrJawN9n4op7de4y7xW9MJ8ew) to learn more about FUEL’s utility and distribution.
+
+## FUEL Overview
+
+![Fuel Banner](../../assets/about/1-fuel-banner.png)
+
+$FUEL will secure the Fuel sequencing network, pay for chain resources and eliminate transaction fees for users while creating new markets for L2 applications.
+
+### 1. Securing the Network
+
+The rollup landscape today is dominated by centralized sequencing solutions, raising concerns about censorship resistance, fairness, and liveness.
+
+Fuel is taking steps to address these challenges. Initially, Fuel will decentralize a network of proposers, then decentralize building, and then will aim to increase the total number of proposers and builders.
+
+The Fuel sequencer employs proof-of-stake (PoS) based on the Tendermint consensus, enabling a decentralized staking network. Users can actively participate in securing the network by delegating their FUEL to sequencer proposers in exchange for a share of staking rewards.
+
+Our vision is to fully decentralize sequencing, which is essential for improving fault tolerance, liveness and censorship resistance. While centralized solutions dominate the space today, Fuel is committed to evolving toward a shared, permissionless network for its rollups.
+
+Validator participation and staking will commence with Fuel Genesis, with detailed information on permissionless staking and running a validator available at a later date.
+
+### 2. Paying for Chain Resources
+
+FUEL will be used to pay for sequencer resources such as data availability, ordering and inclusion of blocks for rollups on the Fuel sequencer. FUEL will also be used for sequencer network fees, which play an essential role in decentralizing L2s built on Fuel as well as ensuring an open and decentralized sequencing network.
+
+Fuel Ignition will continue to accept gas fees in ETH.
+
+
+### 3. Application Specific Sequencing & Eliminating Fees
+
+FUEL gives dApps greater influence on the inclusion and sequencing of transactions, while avoiding the complexities and limitations of traditional blockchain architectures. Stakers can bond their FUEL tokens to a specific application and earn rewards from those applications in exchange for locking their tokens. This allows transactions to be free for the user and executed according to application specific order. The result is a novel market for L2 chain resources that engages stakers to enable best in class user experiences (i.e. staking resources will receive tokens from applications, and enable free user transactions).
+
+Note: More details about these activities, including instructions on how to delegate and stake will be provided soon.
+
+## Progressive Decentralization
+
+We outline three key phases for advancing the decentralization of the network.
+
+- Phase 0, now completed, established 12 sequencer proposers and introduced initial security measures.
+- Phase 1 focuses on decentralized block building and enhanced security.
+- Phase 2 aims to significantly scale the network with more proposers, and advanced security features.
+
+This is just the start of our journey, and we're excited to share our plans for advancing the network.
+
+![Progressive Decentralization](../../assets/about/2-progressive-decentralization.png)
 
 ## Helpful Links
 
-- Have a question? Ask us a question at [forum.fuel.network
-](https://forum.fuel.network/)
-
-<!-- TODO: add link -->
-- [Airdrop Claims](https://docs.fuel.network/docs/intro/what-is-fuel/)
-
-<!-- TODO: add link -->
-- [Convert Fuel V1 to FUEL](https://docs.fuel.network/docs/intro/what-is-fuel/)
-
-<!-- TODO: add link -->
-- [Stake, Withdrawal and Reward Claims](https://docs.fuel.network/docs/intro/what-is-fuel/)
+- Have a question? Ask us a question at [forum.fuel.network](https://forum.fuel.network/) or [Discord](https://discord.com/invite/xfpK4Pe)
+- [Genesis Drop Claims](./claim-airdrop.md)
+- [Upgrade Fuel V1 to FUEL](./fuel-v1-upgrade.md)
+- [Stake, Withdrawal and Reward Claims from Fuel Ignition](./stake-on-fuel.md)
+- [Stake, Withdrawal and Reward Claims from Ethereum](./stake-on-ethereum.md)

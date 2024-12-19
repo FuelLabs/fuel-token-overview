@@ -1,12 +1,22 @@
 # How to Stake on Mainnet Ethereum
 
-<!-- TODO: verify if this is recommended -->
-> It is recommended to bridge your FUEL tokens to the Fuel Ignition network for staking, as it offers a much faster and more cost-effective experience compared to staking on the Ethereum mainnet.
+**Step 1: Connect Your Wallet**
 
-<!-- TODO: add link -->
-Please visit [app.fuel.network/staking/on-ethereum](https://docs.fuel.network/) to stake your tokens on the Fuel shared sequencer network from Ethereum. Below is a help guide, but if you prefer a video tutorial, please click [here](https://docs.fuel.network/) instead.
+To begin staking your FUEL tokens on Ethereum, connect your Ethereum-compatible wallet to the staking platform. Ensure your wallet contains FUEL tokens, whether on the Ethereum mainnet or already bridged to the Fuel sequencer network. If your tokens are on the Ethereum mainnet, you'll need to migrate them to the sequencer network before staking. The platform will guide you through this seamless migration process.
+
+**Step 2: Delegate and Stake Your Tokens**
+
+Once your wallet is connected and your tokens are available in the sequencer network, select a validator to delegate your FUEL tokens. Browse the list of validators displayed at the bottom of the staking page and choose one that aligns with your preferences. Enter the amount of FUEL you wish to delegate, approve the transaction, and confirm your delegation. Once completed, your tokens will appear under "Delegated Positions," and you will immediately begin earning rewards.
+
+**Step 3: Manage Rewards and Withdrawals**
+
+After staking, your FUEL rewards will accumulate automatically. To claim them, navigate to any of your open delegated positions and click "Claim." Your rewards will be added to your balance in the sequencer network. If you wish to withdraw your staked tokens, undelegate them by selecting the desired position and clicking "Undelegate." The tokens will return to your balance in the sequencer network, and you can withdraw them back to your Ethereum mainnet wallet anytime.
+
+Please visit [app.fuel.network/staking/on-ethereum](https://app.fuel.network/staking/on-ethereum) to stake your tokens on the Fuel Shared Sequencer Network from Ethereum. Below is a help guide:
 
 ## Connect EVM Wallet
+
+While staking has just started, the Fuel Sequencer has been running since November 21, 2024. 
 
 Start by connecting an Ethereum wallet with FUEL tokens, whether they are already in the shared sequencer network or in your mainnet wallet.
 
@@ -46,13 +56,13 @@ After staking your FUEL tokens, you will immediately start to accumulate FUEL re
 
 ![Claim Rewards](../../assets/how-to-stake-mainnet-ethereum/6-claim-rewards.png)
 
-Your rewards will be added to your balance in the shared sequencer network.
+Your rewards will be added to your balance in the Fuel shared sequencer network.
 
 ![Claim Rewards Pt2](../../assets/how-to-stake-mainnet-ethereum/7-claim-rewards-pt2.png)
 
 ## Withdrawal
 
-At any time, you can undelegate and withdraw your staked FUEL tokens.
+You can undelegate and withdraw your staked FUEL tokens at any time. However, there is a standard 14-day unbonding period before the undelegation is completed, ensuring economic security within the PoS shared sequencer network and the Ethereum mainnet. After the 14-day period, the withdrawal process requires 4096 sequencer blocks approximately seven more hours before your tokens become available in your mainnet Ethereum wallet.
 
 ### Undelegate
 
@@ -66,12 +76,10 @@ Here, you can select how many delegated tokens you wish to undelegate. These tok
 
 ### Withdraw Balance in Sequencer
 
-<!-- TODO: verify this is true -->
-
 Lastly, you can withdraw your tokens from the shared sequencer network back to your mainnet Ethereum wallet by clicking the "Withdraw" button beside your balance in the shared sequencer.
 
 ![Withdrawal](../../assets/how-to-stake-mainnet-ethereum/10-withdrawal.png)
 
-Here you can specify how many tokens you want to withdrawal.
+Here you can specify how many tokens you want to withdraw.
 
 ![Withdrawal Pt2](../../assets/how-to-stake-mainnet-ethereum/10.5-withdrawal-pt2.png)

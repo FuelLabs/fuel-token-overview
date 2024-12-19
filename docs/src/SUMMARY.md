@@ -3,7 +3,7 @@
 [Token Overview](./index.md)
 
 - [Tokenomics](./tokenomics.md)
-- [Fuel V1 to FUEL conversion](./fuel-v1-conversion.md)
-- [Claim Airdrop](./claim-airdrop.md)
+- [Fuel V1 to FUEL Upgrade](./fuel-v1-upgrade.md)
+- [Claim Genesis Drop](./claim-genesis-drop.md)
 - [Stake on Fuel Ignition](./stake-on-fuel.md)
 - [Stake on Ethereum](./stake-on-ethereum.md)
