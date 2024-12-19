@@ -14,7 +14,7 @@ FUEL powers Fuels decentralized sequencer and eliminates gas fees for users by i
 
 FUEL secures the Fuel sequencing network, pays for chain resources and eliminates transaction fees for users– all while fostering new markets for L2 applications. Beyond sequencing, FUEL is on a mission to make blockchain usable without compromising on decentralization, setting a new standard for rollups in a space dominated by centralized solutions today.
 
-Learn more about the Fuel Sequencer or see the [Fuel Genesis announcement](https://fuel.mirror.xyz/T6A4x8ReVu5ucAdwXXhrJawN9n4op7de4y7xW9MJ8ew) to learn more about FUEL’s utility and distribution.
+Learn more about the Fuel Sequencer or see the [Fuel Genesis announcement](https://fuel.mirror.xyz/T6A4x8ReVu5ucAdwXXhrJawN9n4op7de4y7xW9MJ8ew) to learn more about FUELs utility and distribution.
 
 ## FUEL Overview
 
