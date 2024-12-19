@@ -2,7 +2,7 @@
 
 With the introduction of FUEL and its total initial supply of 10 billion tokens, we aim to create a level playing field that ensures fair access for both existing members and newcomers to our growing ecosystem. To acknowledge and reward our long-standing friends, builders, and users, 20% of the initial supply will be distributed to the community, with eligibility determined by factors such as participation in the Fuel Points Program and our incentivized testnet. In total, over 51% of all FUEL tokens will ultimately be allocated to the community, the broader ecosystem, and ongoing research and development efforts, reflecting our commitment to inclusivity and shared growth.
 
-![Allocation Pie Chart](https://raw.githubusercontent.com/FuelLabs/fuel-token-overview/refs/heads/add/revisions/assets/tokenomics/1-pie.png)
+![Allocation Pie Chart](https://raw.githubusercontent.com/FuelLabs/fuel-token-overview/refs/heads/main/assets/tokenomics/1-pie.png)
 
 | Group                | Details                                                                                                                                                                                                    | Amount       |
 |----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
@@ -21,7 +21,7 @@ Inflation will be 3% annually. Note that inflation and Fuel economics are config
 
 Note: Team and Purchasers can't stake locked tokens.
 
-![Release Schedule](https://raw.githubusercontent.com/FuelLabs/fuel-token-overview/refs/heads/add/revisions/assets/tokenomics/2-release-schedule.png)
+![Release Schedule](https://raw.githubusercontent.com/FuelLabs/fuel-token-overview/refs/heads/main/assets/tokenomics/2-release-schedule.png)
 
 | Group                | Details                                                                                                                                                                                                    | Vesting Schedule        |
 |----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
