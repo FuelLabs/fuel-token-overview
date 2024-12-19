@@ -44,7 +44,6 @@ FUEL will be used to pay for sequencer resources such as data availability, orde
 
 Fuel Ignition will continue to accept gas fees in ETH.
 
-
 ### 3. Application Specific Sequencing & Eliminating Fees
 
 FUEL gives dApps greater influence on the inclusion and sequencing of transactions, while avoiding the complexities and limitations of traditional blockchain architectures. Stakers can bond their FUEL tokens to a specific application and earn rewards from those applications in exchange for locking their tokens. This allows transactions to be free for the user and executed according to application specific order. The result is a novel market for L2 chain resources that engages stakers to enable best in class user experiences (i.e. staking resources will receive tokens from applications, and enable free user transactions).

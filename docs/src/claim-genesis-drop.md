@@ -1,6 +1,6 @@
 # Claim Genesis Drop
 
-Please visit[ app.fuel.network/earn-points/drop/](https://app.fuel.network/earn-points/drop/) to claim your FUEL airdrop. Below is a brief help guide to assist you.
+Please visit [app.fuel.network/earn-points/drop/](https://app.fuel.network/earn-points/drop/) to claim your FUEL airdrop. Below is a brief help guide to assist you.
 
 ## Check Eligibility
 
@@ -8,7 +8,7 @@ Start by connecting all accounts eligible for Phase 1 of the FUEL airdrop. This 
 
 ![Connect Accounts](../../assets/claim-genesis-drop/1-connect-accounts.png)
 
-You connect all three wallet types at the same time and view the claimable amount for each individual account. 
+You connect all three wallet types at the same time and view the claimable amount for each individual account.
 
 ![Airdrop Amount Multi](../../assets/claim-genesis-drop/2-airdrop-amount-multi.png)
 

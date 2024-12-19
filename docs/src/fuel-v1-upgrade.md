@@ -36,7 +36,6 @@ That's it! You can now deposit and delegate your tokens to start earning rewards
 
     Use [app.fuel.network/staking/on-ethereum](https://app.fuel.network/staking/on-ethereum) to stake your tokens on the shared sequencer network from Ethereum. Note that this interface differs from the one used for tokens on Fuel Ignition. Follow the instructions provided in [How to Stake on Mainnet Ethereum](./stake-on-ethereum.md).
 
-
 2. Bridge and Stake on Fuel Ignition:
 
     Alternatively, you can withdraw and bridge your tokens to Fuel Ignition to benefit from lower costs and higher speeds. Use the [Fuel Bridge](https://app.fuel.network/bridge?from=eth&to=fuel) to transfer your tokens, then stake them using [app.fuel.network/staking/on-fuel](https://docs.fuel.network/). Follow the instructions provided in the [How to Stake on Fuel Ignition](./stake-on-fuel.md) guide.
@@ -46,4 +45,3 @@ That's it! You can now deposit and delegate your tokens to start earning rewards
 ![Balance](../../assets/how-to-upgrade-fuel-v1/6-balance.png)
 
 > **Note:** It may take some time for your balance to appear on the shared sequencer network. Please don’t panic—your balance will update soon.
-
