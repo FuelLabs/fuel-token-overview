@@ -38,8 +38,6 @@ That's it! You can now deposit and delegate your tokens to start earning rewards
 
 2. Bridge and Stake on Fuel Ignition:
 
-    Alternatively, you can withdraw and bridge your tokens to Fuel Ignition to benefit from lower costs and higher speeds. Use the [Fuel Bridge](https://app.fuel.network/bridge?from=eth&to=fuel) to transfer your tokens, then stake them using [app.fuel.network/staking/on-fuel](https://docs.fuel.network/). Follow the instructions provided in the [How to Stake on Fuel Ignition](./stake-on-fuel.md) guide.
-
     Alternatively, you can withdraw and bridge your tokens to Fuel Ignition to benefit from lower costs and higher speeds. Use the [Fuel Bridge](https://app.fuel.network/bridge?from=eth&to=fuel) to transfer your tokens, then stake them using [app.fuel.network/staking/on-fuel](https://app.fuel.network/staking/on-fuel). Follow the instructions provided in the [How to Stake on Fuel Ignition guide](./stake-on-fuel.md).
 
 ![Balance](https://raw.githubusercontent.com/FuelLabs/fuel-token-overview/refs/heads/main/assets/how-to-upgrade-fuel-v1/6-balance.png)
