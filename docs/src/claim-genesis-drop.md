@@ -22,7 +22,7 @@ To start the claiming process, click “Join the Claim Queue.”
 
 ![Join Queue](https://raw.githubusercontent.com/FuelLabs/fuel-token-overview/refs/heads/main/assets/claim-genesis-drop/4-join-queue.png)
 
-Once you have joined the queue, you will have exactly 10 minutes to claim your FUEL tokens from each of your eligible accounts or else you will have to requeue. 
+Once you have joined the queue, you will have exactly 10 minutes to claim your FUEL tokens from each of your eligible accounts or else you will have to requeue.
 
 ![Claim](https://raw.githubusercontent.com/FuelLabs/fuel-token-overview/refs/heads/main/assets/claim-genesis-drop/5-claim.png)
 
