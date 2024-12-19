@@ -1,14 +1,14 @@
 # How to Stake on Fuel
 
-***Step 1: Connect Your Fuel Wallet***
+## Step 1: Connect Your Fuel Wallet
 
 To stake FUEL tokens on the Fuel sequencer network through Fuel Ignition, start by visiting app.fuel.network/staking/on-fuel. Connect your Fuel wallet, ensuring it holds FUEL tokens. The platform supports non-native EVM and SVM wallets, providing flexibility in wallet types.
 
-***Step 2: Stake Your Tokens***
+## Step 2: Stake Your Tokens
 
 Once your wallet is connected, view your FUEL token balance, your staked amount on the sequencer network, and any rewards accrued. Click the "Stake" button beside your balance to begin. Enter the number of tokens you want to delegate, then confirm by pressing "Deposit." Unlike Ethereum mainnet staking, validator delegation on Fuel is automated, so you don’t need to manage validators individually. Your staked balance will update, and the dashboard will show the distribution of your tokens across validators.
 
-***Step 3: Manage Withdrawals and Claim Rewards***
+## Step 3: Manage Withdrawals and Claim Rewards
 
 Staking on Fuel allows you to claim rewards as they accumulate. Click "Claim" next to your rewards balance to collect them. To withdraw your staked tokens, select "Withdraw" beside your staked amount, choose how many tokens to withdraw, and confirm. The undelegated tokens will return to your Fuel wallet, and the validator dashboard will reflect the updated balance.
 
