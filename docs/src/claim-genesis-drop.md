@@ -6,7 +6,7 @@ Please visit [app.fuel.network/earn-points/drop/](https://app.fuel.network/earn-
 
 Start by connecting all accounts eligible for Phase 1 of the FUEL airdrop. This includes GitHub accounts, Fuel wallets (both native and non-native), and Ethereum wallets.
 
-![Connect Accounts](https://raw.githubusercontent.com/FuelLabs/fuel-token-overview/refs/heads/main/assets/claim-genesis-drop/1-connect-accounts.png)
+![Connect Accounts](https://raw.githubusercontent.com/FuelLabs/fuel-token-overview/refs/heads/main/assets/claim-genesis-drop/1-connect-wallet.png)
 
 You connect all three wallet types at the same time and view the claimable amount for each individual account.
 
@@ -14,7 +14,7 @@ You connect all three wallet types at the same time and view the claimable amoun
 
 Note that any eligible Ethereum accounts you connect will automatically load their corresponding eligible Fuel accounts. If rewards were earned using a non-Fuel wallet, they will still appear in the Fuel Wallet where the tokens were bridged.
 
-![Airdrop Amount Pt2](https://raw.githubusercontent.com/FuelLabs/fuel-token-overview/refs/heads/main/assets/claim-genesis-drop/3-airdrop-amount-pt2.png)
+![Airdrop Amount Pt2](https://raw.githubusercontent.com/FuelLabs/fuel-token-overview/refs/heads/main/assets/claim-genesis-drop/3-airdrop-amount-pt3.png)
 
 ## Claim
 
