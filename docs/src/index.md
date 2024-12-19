@@ -18,7 +18,7 @@ Our vision is to fully decentralize sequencing, which is essential for improving
 
 Users can actively participate in securing the network by delegating their FUEL to sequencer proposers in exchange for a share of staking rewards.
 
-Learn more about the Fuel Sequencer or see the [Fuel Genesis announcement](https://fuel.mirror.xyz/T6A4x8ReVu5ucAdwXXhrJawN9n4op7de4y7xW9MJ8ew) to learn more about FUEL’s utility and distribution.
+Learn more about the Fuel Sequencer or see the [Fuel Genesis announcement](https://fuel.mirror.xyz/T6A4x8ReVu5ucAdwXXhrJawN9n4op7de4y7xW9MJ8ew) to learn more about the FUEL token's utility and distribution.
 
 ## FUEL Overview
 

@@ -31,4 +31,3 @@ permissionless
 Tendermint
 liveness
 rollup
-FUEL’s
