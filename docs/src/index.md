@@ -65,7 +65,7 @@ This is just the start of our journey, and we're excited to share our plans for 
 ## Helpful Links
 
 - Have a question? Ask us a question at [forum.fuel.network](https://forum.fuel.network/) or [Discord](https://discord.com/invite/xfpK4Pe)
-- [Genesis Drop Claims](./claim-airdrop.md)
+- [Genesis Drop Claims](./claim-genesis-drop.md)
 - [Upgrade Fuel V1 to FUEL](./fuel-v1-upgrade.md)
 - [Stake, Withdrawal and Reward Claims from Fuel Ignition](./stake-on-fuel.md)
 - [Stake, Withdrawal and Reward Claims from Ethereum](./stake-on-ethereum.md)
