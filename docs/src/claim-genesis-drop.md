@@ -30,4 +30,8 @@ Please carefully read over the terms of service before proceeding to claim your 
 
 ![Claim Pt2](https://raw.githubusercontent.com/FuelLabs/fuel-token-overview/refs/heads/main/assets/claim-genesis-drop/6-claim-pt2.png)
 
+If you are claiming through an Ethereum wallet, you will have the opportunity to connect a Fuel wallet where you want your tokens to be sent. Additionally, as a bonus, if you don't have any ETH on Fuel Ignition, you will receive some gas to help you claim your Fuel tokens!
+
+![Claim Eth](https://raw.githubusercontent.com/FuelLabs/fuel-token-overview/refs/heads/main/assets/claim-genesis-drop/7-claim-eth.png)
+
 Congratulations, and thank you for being part of the Fuel community! Now, please head over to the [Fuel Ignition staking guide](./stake-on-fuel.md) to learn how you can stake your FUEL tokens and help secure the network!
