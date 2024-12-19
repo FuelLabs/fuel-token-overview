@@ -34,6 +34,4 @@ When claiming through an Ethereum wallet, you can connect a Fuel wallet to recei
 
 ![Claim Eth](https://raw.githubusercontent.com/FuelLabs/fuel-token-overview/refs/heads/main/assets/claim-genesis-drop/7-claim-eth.png)
 
-Congratulations, and thank you for being part of the Fuel community! Now, please head over to the [Fuel Ignition staking guide](./stake-on-fuel.md) to learn how you can stake your FUEL tokens and help secure the network!
-
 Congratulations and thank you for being a part of the Fuel community! Now, please head over to Fuel Ignition and follow this [guide](./stake-on-fuel.md) to stake your tokens.
