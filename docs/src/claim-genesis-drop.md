@@ -30,4 +30,4 @@ Please carefully read over the terms of service before proceeding to claim your 
 
 ![Claim Pt2](https://raw.githubusercontent.com/FuelLabs/fuel-token-overview/refs/heads/add/revisions/assets/claim-genesis-drop/6-claim-pt2.png)
 
-Congratulations, and thank you for being part of the Fuel community! Now, please head over to the Fuel Ignition staking guide to stake your tokens and help secure the Fuel network!
+Congratulations, and thank you for being part of the Fuel community! Now, please head over to the [Fuel Ignition staking guide](./stake-on-fuel.md) to learn how you can stake your FUEL tokens and help secure the network!
