@@ -1,6 +1,4 @@
-# FUEL Token
-
-## Tokenomics
+# Tokenomics
 
 With the introduction of FUEL and its total initial supply of 10 billion tokens, we aim to create a level playing field that ensures fair access for both existing members and newcomers to our growing ecosystem. To acknowledge and reward our long-standing friends, builders, and users, 20% of the initial supply will be distributed to the community, with eligibility determined by factors such as participation in the Fuel Points Program and our incentivized testnet. In total, over 51% of all FUEL tokens will ultimately be allocated to the community, the broader ecosystem, and ongoing research and development efforts, reflecting our commitment to inclusivity and shared growth.
 
