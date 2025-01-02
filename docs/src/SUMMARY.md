@@ -2,7 +2,6 @@
 
 [Token Overview](./index.md)
 
-- [FUEL Token Overview](./fuel-token.md)
 - [Tokenomics](./tokenomics.md)
 - [Fuel V1 to FUEL Upgrade](./fuel-v1-upgrade.md)
 - [Claim Genesis Drop](./claim-genesis-drop.md)
