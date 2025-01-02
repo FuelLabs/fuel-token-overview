@@ -4,7 +4,7 @@
 
 $FUEL will secure the Fuel sequencing network, pay for chain resources and eliminate transaction fees for users while creating new markets for L2 applications.
 
-### 1. Securing the Network
+## 1. Securing the Network
 
 The rollup landscape today is dominated by centralized sequencing solutions, raising concerns about censorship resistance, fairness, and liveness.
 
@@ -16,13 +16,13 @@ Our vision is to fully decentralize sequencing, which is essential for improving
 
 Validator participation and staking will commence with Fuel Genesis, with detailed information on permissionless staking and running a validator available at a later date.
 
-### 2. Paying for Chain Resources
+## 2. Paying for Chain Resources
 
 FUEL will be used to pay for sequencer resources such as data availability, ordering and inclusion of blocks for rollups on the Fuel sequencer. FUEL will also be used for sequencer network fees, which play an essential role in decentralizing L2s built on Fuel as well as ensuring an open and decentralized sequencing network.
 
 Fuel Ignition will continue to accept gas fees in ETH.
 
-### 3. Application Specific Sequencing & Eliminating Fees
+## 3. Application Specific Sequencing & Eliminating Fees
 
 FUEL gives dApps greater influence on the inclusion and sequencing of transactions, while avoiding the complexities and limitations of traditional blockchain architectures. Stakers can bond their FUEL tokens to a specific application and earn rewards from those applications in exchange for locking their tokens. This allows transactions to be free for the user and executed according to application specific order. The result is a novel market for L2 chain resources that engages stakers to enable best in class user experiences (i.e. staking resources will receive tokens from applications, and enable free user transactions).
 
